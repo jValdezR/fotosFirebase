@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fotosfirebase-3588c": {
+      "hosting": {
+        "fotosFirebase": [
+          "fotosfirebase-3588c"
+        ]
+      }
+    }
+  }
+}
